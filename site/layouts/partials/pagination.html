@@ -1,0 +1,20 @@
+{{ $pages := where site.RegularPages "Type" "post" }}
+{{ $paginator := .Paginate $pages 4 }}
+{{ if gt $paginator.TotalPages 1 }}
+ 
+<nav class="cf pa3">
+    {{ if $paginator.HasNext }}
+    <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
+        &larr; Previous
+    </a>
+    {{ end }}
+    <div class="pagination">
+        {{ if $paginator.HasPrev }}
+        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
+            Next &rarr;
+        </a>
+        {{ end }}
+    </div>
+</nav>
+ 
+{{ end }}

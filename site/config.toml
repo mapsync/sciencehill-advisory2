@@ -1,0 +1,20 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "City of Science Hill"
+
+[params]
+    Id = "cityofsciencehill"
+    Color = "#78161D"
+    AppTitle = "Science Hill Advisory"
+    Description = "Alerts and interactive map to serve the city of Science Hill"
+    Facebook = ""
+    BillPay = "https://portal.utilitydistrict.com/5481"
+
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
