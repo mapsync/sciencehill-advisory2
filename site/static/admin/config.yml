@@ -53,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
           label: "Account",
           name: "account",
           widget: "hidden",
-          default: "grayson",
+          default: "cityofsciencehill",
         }
       - {
           label: "Outputs",
