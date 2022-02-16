@@ -14,8 +14,8 @@ contact_entries:
       https://www.cityofsciencehill.com
   - heading: Hours & Email
     text: |
-      Monday – Friday
-      8:00 a.m. – 4:30 p.m.
+      Monday – Friday  
+      8:00 a.m. – 4:30 p.m.  
       info@cityofsciencehill.com
   - heading: Information
     text: >
@@ -31,19 +31,19 @@ contact_entries:
       Telephone: 606-423-4109
 
 
-      Park & Streets Commissioner – Billy New  
-      Telephone:606-423-4109
-
-
-      Fire Commissioner – Beth Wheet  
+      Park & Streets Commissioner - Billy New  
       Telephone: 606-423-4109
 
 
-      Water Commissioner – Jim Ramsey  
+      Fire Commissioner - Beth Wheet  
       Telephone: 606-423-4109
 
 
-      Sewer Commissioner – Mike Hall  
+      Water Commissioner - Jim Ramsey  
+      Telephone: 606-423-4109
+
+
+      Sewer Commissioner - Mike Hall  
       Telephone: 606-423-4109
 
 
