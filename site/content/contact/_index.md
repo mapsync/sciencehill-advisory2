@@ -27,7 +27,7 @@ contact_entries:
       Email: Vhines@citysciencehill.com
 
 
-      Police Commissioner – Bill Dick  
+      Police Commissioner - Bill Dick  
       Telephone: 606-423-4109
 
 
