@@ -1,39 +1,12 @@
 {{ define "main" }}
+
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3 mb3 mt3">
-	<div id="sent" style="display:none;">
-		<h4 class="f4 b lh-title mb2 mt3 primary" style="text-align:center;">Message Sent</h4>
-	</div>
-	<div id="form" style="display:none;">
-		<h4 class="f4 b lh-title mb2 mt3 primary" style="text-align:center;">Update Contact Information</h4>
-		<form action="https://formsubmit.co/8091e167a2cac95199f6997b6f965a91" method="POST" />
-		    <div class="form-group" style="margin-bottom:0.4rem;">
-		      <label for="name" hidden>Name</label>
-		      <input id="name" name="name" style="width:100%;" type="text" class="form-control" placeholder="Name" required>
-		    </div>
-		    <div class="form-group" style="margin-bottom:0.4rem;">
-		      <label for="email" hidden>Email</label>
-		      <input id="email" name="email" style="width:100%;" type="email" autocomplete="email" class="form-control" placeholder="Email" required>
-		    </div>
-		    <div class="form-group" style="margin-bottom:0.4rem;">
-		      <label for="mobileNumber" hidden>Mobile Number</label>
-		      <input id="mobileNumber" style="width:100%;" name="mobileNumber" type="tel" class="form-control" placeholder="Mobile Number" required>
-		    </div>
-		    <div class="form-group" style="margin-bottom:0.4rem;">
-		      <label for="message" hidden>Message</label>
-		      <textarea id="message" style="width:100%;" name="message" class="form-control" rows="4" placeholder="Message"></textarea>
-		    </div>
-		    <input type="text" name="_honey" style="display:none">
-		    <input type="hidden" name="_cc" value="info@cityofsciencehill.com">
-		    <input type="hidden" name="_next" value="https://cityofsciencehill.geosync.cloud/contact?sent=true">
-		    <button class="btn btn-default" type="submit">Submit</button><br /><br />
-	     	 </form>
-	</div>
+
 		<div class="flex-ns flex-wrap mb3">
 	        {{ range .Params.contact_entries }}
 				<div style="flex: 0 0 50%;padding:0 0.4rem;">
 					<h4 class="f4 b lh-title mb2 mt3 primary" style="text-align:center;">{{ .heading }}</h4>
-					
 					<p>{{ .text | markdownify }}</p>
 				</div>
 			{{ end }}
@@ -41,15 +14,5 @@
 
 	</div>
 </div>
-<script>
-	const queryString = window.location.search;
-	const urlParams = new URLSearchParams(queryString);
-	const sent = urlParams.get('sent');
-	if (sent) {
-		document.getElementById('sent').style.display = "block";
-	}
-	else {
-		document.getElementById('form').style.display = "block";
-	}
-</script>
+
 {{ end }}
