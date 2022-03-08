@@ -11,7 +11,7 @@ contact_entries:
       (606) 423-4109 - Office  
       (606) 679-3200 - After Hours  
       (606) 423-4384 - Fax  
-      https://www.cityofsciencehill.com
+      http://www.citysciencehill.com
   - heading: Hours & Email
     text: |
       Monday – Friday  
@@ -54,4 +54,3 @@ contact_entries:
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
 ---
-&nbsp;
