@@ -16,52 +16,42 @@ contact_entries:
     text: |
       Monday – Friday  
       8:00 a.m. – 4:30 p.m.  
-      info@cityofsciencehill.com
+      info@citysciencehill.com
   - heading: Information
     text: >
-      Mike Hall, Mayor  
-      Email: MHall@cityofsciencehill.com
+      Mike Hall, Mayor   Email: MHall@citysciencehill.com
 
 
-      Vanda Hines, Administrative  
-      Email: Vhines@citysciencehill.com
+      Vanda Hines, Administrative   Email: Vhines@citysciencehill.com
 
 
-      Police Commissioner - Bill Dick  
-      Telephone: 606-423-4109
+      Police Commissioner - Bill Dick   Telephone: 606-423-4109
 
 
-      Park & Streets Commissioner - Billy New  
-      Telephone: 606-423-4109
+      Park & Streets Commissioner - Billy New   Telephone: 606-423-4109
 
 
-      Fire Commissioner - Beth Wheet  
-      Telephone: 606-423-4109
+      Fire Commissioner - Beth Wheet   Telephone: 606-423-4109
 
 
-      Water Commissioner - Jim Ramsey  
-      Telephone: 606-423-4109
+      Water Commissioner - Jim Ramsey   Telephone: 606-423-4109
 
 
-      Sewer Commissioner - Mike Hall  
-      Telephone: 606-423-4109
+      Sewer Commissioner - Mike Hall   Telephone: 606-423-4109
 
 
-      Josh Whitis, Chief of Fire  
-      Telephone: 606-423-3123
+      Josh Whitis, Chief of Fire   Telephone: 606-423-3123
 
 
-      Jeff Sears, Chief of Police  
-      Telephone: 606-423-1009
+      Jeff Sears, Chief of Police   Telephone: 606-423-1009
 
 
-      Chuck Mounce, Water Operator  
-      Telephone: 606-423-4109
+      Chuck Mounce, Water Operator   Telephone: 606-423-4109
 
 
-      David Young, Sewer Operator  
-      Telephone: 606-685-6154
+      David Young, Sewer Operator   Telephone: 606-685-6154
 
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
 ---
+&nbsp;
