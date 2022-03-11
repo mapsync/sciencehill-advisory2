@@ -8,4 +8,4 @@ image: /img/20190502_152210.jpg
 ---
 A Boil Water Advisory is in effect
 
-**Bold**
+**Bold Type**
