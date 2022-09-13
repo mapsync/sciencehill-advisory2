@@ -1,7 +1,7 @@
 ---
 title: Boil water advisory Lifted
 draft: false
-date: 2022-09-08T19:35:38.891Z
+date: 2022-09-13T17:50:16.823Z
 description: Science Hill waterworks bowl water advisory Lifted
 image: /img/1d75b5bf-cde6-48f2-b692-14a9dadf22d3.jpeg
 ---
