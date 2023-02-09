@@ -31,7 +31,7 @@ contact_entries:
       Park & Streets Commissioner - Billy New   Telephone: 606-423-4109
 
 
-      Fire Commissioner - Beth Wheet   Telephone: 606-423-4109
+      Fire Commissioner - Terry Wesley   Telephone: 606-423-4109
 
 
       Water Commissioner - Jim Ramsey   Telephone: 606-423-4109
