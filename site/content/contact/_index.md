@@ -56,6 +56,3 @@ contact_entries:
   - heading: Science Hill Water Works Water Quality Report 2022
     text: https://tapwaterinfo.com/sciencehill
 ---
-**Science Hill Water Works Water Quality Report 2022**
-
-   **<https://tapwaterinfo.com/sciencehill>**
