@@ -2,6 +2,8 @@
 title: Contact
 logo: /img/android-chrome-192x192.png
 contact_entries:
+  - heading: Science Hill Water Works Water Quality Report 2022
+    text: https://tapwaterinfo.com/sciencehill
   - heading: Address
     text: |
       217 Langdon Street  
@@ -17,8 +19,6 @@ contact_entries:
       Monday – Friday  
       8:00 a.m. – 4:30 p.m.  
       info@citysciencehill.com
-  - heading: Science Hill Water Works Water Quality Report 2022
-    text: https://tapwaterinfo.com/sciencehill
   - heading: Information
     text: >
       Mike Hall, Mayor   Email: MHall@citysciencehill.com
