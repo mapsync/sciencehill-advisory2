@@ -53,6 +53,8 @@ contact_entries:
 
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
+  - heading: Science Hill Water Works Water Quality Report 2022
+    text: https://tapwaterinfo.com/sciencehill
 ---
 **Science Hill Water Works Water Quality Report 2022**
 
