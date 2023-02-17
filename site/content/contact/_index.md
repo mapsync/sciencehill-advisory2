@@ -25,16 +25,16 @@ contact_entries:
       Vanda Hines, Administrative   Email: Vhines@citysciencehill.com
 
 
-      Police Commissioner - Bill Dick   Telephone: 606-423-4109
+      Police Commissioner -Terry Wesley Telephone: 606-423-4109
 
 
-      Park & Streets Commissioner - Billy New   Telephone: 606-423-4109
+      Park & Streets Commissioner -Billy New  Telephone: 606-423-4109
 
 
-      Fire Commissioner - Terry Wesley   Telephone: 606-423-4109
+      Fire Commissioner - Bill Dick  Telephone: 606-423-4109
 
 
-      Water Commissioner - Jim Ramsey   Telephone: 606-423-4109
+      Water Commissioner - Jim Ramsey Telephone: 606-423-4109
 
 
       Sewer Commissioner - Mike Hall   Telephone: 606-423-4109
