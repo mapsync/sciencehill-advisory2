@@ -17,6 +17,8 @@ contact_entries:
       Monday – Friday  
       8:00 a.m. – 4:30 p.m.  
       info@citysciencehill.com
+  - heading: Science Hill Water Works Water Quality Report 2022
+    text: https://tapwaterinfo.com/sciencehill
   - heading: Information
     text: >
       Mike Hall, Mayor   Email: MHall@citysciencehill.com
@@ -53,6 +55,4 @@ contact_entries:
 
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
-  - heading: Science Hill Water Works Water Quality Report 2022
-    text: https://tapwaterinfo.com/sciencehill
 ---
