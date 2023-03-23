@@ -1,6 +1,6 @@
 ---
 center: '{"type":"Point","coordinates":[-84.6346888,37.1769992]}'
-zoom: 15
+zoom: 14
 label: Science Hill Water Works has issued a Boil Water Advisory
 description: Science Hill Water Works has issued a Boil Water Advisory 832 West
   Hwy 635 to Hwy 1676 including Scenic Dr and Apache. Please bring all water
