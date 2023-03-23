@@ -1,5 +1,5 @@
 ---
-center: '{"type":"Point","coordinates":[-84.6412075,37.1854617]}'
+center: '{"type":"Point","coordinates":[-84.64095,37.1849147]}'
 zoom: 15
 label: Science Hill Water Works has issued a Boil Water Advisory
 description: Science Hill Water Works has issued a Boil Water Advisory 832 West
