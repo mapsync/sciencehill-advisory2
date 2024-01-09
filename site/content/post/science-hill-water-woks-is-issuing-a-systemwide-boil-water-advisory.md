@@ -1,5 +1,5 @@
 ---
-title: "Science Hill Water Woks is issuing a systemwide boil water advisory "
+title: "Science Hill Water Works is issuing a systemwide boil water advisory "
 draft: false
 date: 2024-01-09T00:13:54.923Z
 description: Science Hill Water Works will issue a systemwide boil water
