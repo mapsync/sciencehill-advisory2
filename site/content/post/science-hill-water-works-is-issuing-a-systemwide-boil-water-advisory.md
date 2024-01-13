@@ -2,7 +2,7 @@
 title: Science Hill Water Works is issuing a systemwide boil water advisory
 draft: false
 date: 2024-01-13T13:54:45.564Z
-description: Science Hill Water Works is issue a systemwide boil water advisory
+description: Science Hill Water Works has issue a systemwide boil water advisory
   beginning 6:00 am today until further notice.
 image: /img/img_0285.jpeg
 ---
