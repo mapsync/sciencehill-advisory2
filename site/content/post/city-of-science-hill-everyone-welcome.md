@@ -1,0 +1,18 @@
+---
+title: City Of Science Hill!! Everyone Welcome !
+draft: false
+date: 2024-06-25T19:17:35.568Z
+description: A special thanks to all of our sponsors for making this happen!
+image: /img/449147132_775619881427605_2518567375673228892_n.jpg
+---
+
+
+FRIDAY, JULY 5TH AFTER CO-ED SOFTBALL GAMES BEGINNING AROUND 10 PM
+
+BRING YOU OWN CAMP CHAIR OR BLANKET FOR VIEWING.
+
+PULASKI COUNTY LITTLE LEAGUE FIELDS
+
+307 W. 635 SCIENCE HILL (SCIENCE HILL PARK)
+
+HOPE TO SEE YOU THERE!!!!!!
