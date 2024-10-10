@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/android-chrome-192x192.png
+logo: /img/android-chrome-256x256.png
 contact_entries:
   - heading: Science Hill Water Works Water Quality Report
     text: https://tapwaterinfo.com/sciencehill
