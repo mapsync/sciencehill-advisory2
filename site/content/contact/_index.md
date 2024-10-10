@@ -21,10 +21,9 @@ contact_entries:
       info@citysciencehill.com
   - heading: Information
     text: >
-      Mike Hall, Mayor   Email: MHall@citysciencehill.com
+      Mike Hall, Mayor   Email: mhall@citysciencehill.com
 
-
-      Vanda Hines, Administrative   Email: Vhines@citysciencehill.com
+      Vanda Hines, Administrative   Email: vhines@citysciencehill.com
 
       Fire Commissioner -    Terry Wesley Telephone: 606-423-4109
 
