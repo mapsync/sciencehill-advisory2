@@ -10,9 +10,8 @@ contact_entries:
       Science Hill, KY 42553
   - heading: Phone, Fax & Website
     text: |
-      (606) 423-4109 - Office  
-      (606) 679-3200 - After Hours  
-      (606) 423-4384 - Fax  
+      Office - (606) 423-4109 
+      After Hour - (606) 679-3200
       http://www.citysciencehill.com
   - heading: Hours & Email
     text: |
