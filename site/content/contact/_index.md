@@ -2,7 +2,7 @@
 title: Contact
 logo: /img/android-chrome-256x256.png
 contact_entries:
-  - heading: Science Hill Water Works Water
+  - heading: Science Hill Water Works Water Service Line Information
     text: test
   - heading: Science Hill Water Works Water Quality Report
     text: https://tapwaterinfo.com/sciencehill
