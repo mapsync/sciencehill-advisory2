@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact & Information
 logo: /img/android-chrome-256x256.png
 contact_entries:
   - heading: Science Hill Water Works Water Quality Report
