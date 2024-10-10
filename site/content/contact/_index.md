@@ -58,4 +58,3 @@ contact_entries:
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
 ---
-j﻿kfakjgfhkjfghkldfjgdfkdkadfjkghadlfkjhadflkjghakldfjgkjadfhg
