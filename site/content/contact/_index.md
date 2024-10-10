@@ -2,6 +2,8 @@
 title: Contact
 logo: /img/android-chrome-256x256.png
 contact_entries:
+  - heading: Science Hill Water Works Water
+    text: test
   - heading: Science Hill Water Works Water Quality Report
     text: https://tapwaterinfo.com/sciencehill
   - heading: Address
@@ -58,6 +60,4 @@ contact_entries:
 
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
-  - heading: Science Hill Water Works Water
-    text: test
 ---
