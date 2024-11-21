@@ -3,7 +3,8 @@ title: Contact
 logo: /img/android-chrome-256x256.png
 contact_entries:
   - heading: Science Hill Water Works Water Service Line Information
-    text: test
+    text: >
+      https://shww.maps.arcgis.com/apps/webappviewer/index.html?id=5236f0697b6f40dcaabb36e1582e89ba
   - heading: Science Hill Water Works Water Quality Report
     text: https://tapwaterinfo.com/sciencehill
   - heading: Address
