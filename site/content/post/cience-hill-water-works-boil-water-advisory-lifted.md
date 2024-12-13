@@ -1,5 +1,5 @@
 ---
-title: cience Hill Water Works Boil Water Advisory LIFTED
+title: Science Hill Water Works Boil Water Advisory LIFTED
 draft: false
 date: 2024-12-13T19:02:41.706Z
 description: Science Hill Water Works Boil Water Advisory from Love Divine
