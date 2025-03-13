@@ -28,20 +28,17 @@ contact_entries:
 
       Vanda Hines, Administrative   Email: vhines@citysciencehill.com
 
+       Police Commissioner -    Terry Wesley Telephone: 606-423-4109
 
-      Fire Commissioner -    Terry Wesley Telephone: 606-423-4109
-
-
-      Park & Streets Commissioner -Billy New  Telephone: 606-423-4109
+      Park & Streets Commissioner -  Mike Hall   Telephone: 606-423-4109
 
 
-      Police Commissioner  - Bill Dick  Telephone: 606-423-4109
+      Fire Commissioner  - Bill Dick  Telephone: 606-423-4109
 
 
-      Water Commissioner -     Jim Ramsey Telephone: 606-423-4109
-
-
-      Sewer Commissioner - Mike Hall   Telephone: 606-423-4109
+      Water Commissioner -    Billy New  Telephone: 606-423-4109
+       
+      Sewer Commissioner - James Morris 606-423-4109
 
 
       Josh Whitis, Chief of Fire   Telephone: 606-423-3123
@@ -53,10 +50,7 @@ contact_entries:
       Chuck Mounce, Water Operator   Telephone: 606-423-4109
 
 
-      David Young, Sewer Operator   Telephone: 606-685-6154
-
-
-      Jonathon Eldridge, Sewer Operator
+      Jonathon Eldridge, Sewer Operator  Telephone: 606-425-1033
 
 
       City Council meetings are held the 3rd Tuesday of each month at 6:00 p.m. at City Hall.
