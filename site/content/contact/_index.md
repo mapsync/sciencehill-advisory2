@@ -20,7 +20,7 @@ contact_entries:
     text: |
       Monday – Friday  
       8:00 a.m. – 4:30 p.m.  
-      info@citysciencehill.com
+      vhines@citysciencehill.com
   - heading: Information
     text: >
       Mike Hall, Mayor   Email: mhall@citysciencehill.com
