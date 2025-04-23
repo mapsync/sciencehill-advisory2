@@ -9,7 +9,7 @@ title = "City of Science Hill"
     AppTitle = "Science Hill Advisory"
     Description = "Alerts and interactive map to serve the city of Science Hill"
     Facebook = ""
-    BillPay = "https://portal.utilitydistrict.com/5481"
+    BillPay = "https://sciencehill.utilitydistrict.com"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
