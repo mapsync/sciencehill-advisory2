@@ -1,5 +1,5 @@
 ---
-center: '{"type":"Point","coordinates":[-84.6165164,37.1135239]}'
+center: '{"type":"Point","coordinates":[-84.6204972,37.1207923]}'
 zoom: 15
 label: Science Hill Water Works has issued a Boil Water Advisory
 description: ""
