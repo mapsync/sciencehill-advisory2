@@ -44,7 +44,7 @@ contact_entries:
       Josh Whitis, Chief of Fire   Telephone: 606-423-3123
 
 
-      Greg Martin, Chief of Police   Telephone: 606-423-1009
+      Joran Wesley, Chief of Police   Telephone: 606-423-1009
 
 
       Chuck Mounce, Water Operator   Telephone: 606-423-4109
