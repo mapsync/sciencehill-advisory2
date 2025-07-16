@@ -1,0 +1,14 @@
+---
+title: "WATER OUTAGE "
+draft: false
+date: 2025-07-16T16:49:35.560Z
+description: WATER OUTAGE DUE TO NEW LINE CONSTRUCTION
+image: /img/wet_connection.jpg
+---
+WATER OUTAGE DUE TO NEW LINE CONSTRUCTION.
+
+W﻿ATER WILL BE OFF 7/17/2025 AT 8:00 AM FOR APPROX. 4 HOURS.
+
+F﻿ROM 7000 N. HWY 1247 TO 7620 N. HWY 1247 AND ZOE CT.,ZOE DR. AND SPRING ST.
+
+Please bring water to a rolling boil for 3 min.
