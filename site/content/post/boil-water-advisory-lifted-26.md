@@ -1,5 +1,5 @@
 ---
-title: Boil Water Advisory LIFTED
+title: Boil Water Advisory HAS BEEN LIFTED
 draft: false
 date: 2026-01-22T19:42:20.904Z
 description: Science Hill Water Works boil water advisory from intersection of
